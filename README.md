@@ -8,11 +8,19 @@
 
 ## 2. Open the cloned folder in some editor(eg:- VSCode)
 
-## 3. Install mysql in the system
+## 3. Install necessary dependencies such as node and npm
 
-## 4. Inside /backend/db.js, change 'user', 'password' and 'database' to system's mysql username, password and database(create a database)
+### $ npm install node
 
-## 5. From the root('/') directory which is 'task-manager' run:
+### $ npm install mysql2
+
+### $ npm install cors
+
+## 4. Install mysql in the system
+
+## 5. Inside /backend/db.js, change 'user', 'password' and 'database' to system's mysql username, password and database(create a database)
+
+## 6. From the root('/') directory which is 'task-manager' run:
 
 ### $ node backend/app.js
 
@@ -20,10 +28,10 @@
 
 ### $ npm start
 
-## 6. It will automatically open the App on the Web browser. The app is also accessible by typing the URL:
+## 7. It will automatically open the App on the Web browser. The app is also accessible by typing the URL:
 
 ### localhost:3000/
 
-## 7. Additionally backend can be accessed using URL (On Postman or other API development tools):
+## 8. Additionally backend can be accessed using URL (On Postman or other API development tools):
 
 ### localhost:6578/
