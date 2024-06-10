@@ -1,0 +1,1 @@
+It is a simple task manager to demonstrate CRUD operations
