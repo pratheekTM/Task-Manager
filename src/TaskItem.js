@@ -1,3 +1,4 @@
+// /src/TaskItem.js - Provides the view for individual Task.
 import React from 'react';
 import { Link } from 'react-router-dom';
 import api from './api';

@@ -1,3 +1,4 @@
+// /backend/taskController.js - For defining functions of different API routes.
 const Task = require('./taskModel');
 
 exports.getAllTasks = (req, res) => {

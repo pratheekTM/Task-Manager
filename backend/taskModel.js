@@ -1,3 +1,4 @@
+// /backend/taskModel.js - For modelling the data in and out of the Database.
 const db = require('./db');
 
 const Task = {

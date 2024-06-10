@@ -1,3 +1,4 @@
+// /backend/db.js - For connecting to MySql Database.
 const mysql = require('mysql2');
 
 const connection = mysql.createConnection({

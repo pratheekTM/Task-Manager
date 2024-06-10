@@ -1,3 +1,4 @@
+// /src/App.js - For the root component of the React App.
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import TaskList from './TaskList';
 import TaskDetail from './TaskDetail';

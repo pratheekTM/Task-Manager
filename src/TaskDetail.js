@@ -1,3 +1,4 @@
+// /src/TaskDetail.js - Provides detailed view of a Task.
 import React, { useState, useEffect } from 'react';
 import { useParams, Link, useNavigate } from 'react-router-dom';
 import api from './api';
